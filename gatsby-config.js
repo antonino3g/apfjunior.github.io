@@ -32,5 +32,5 @@ module.exports = {
       },
     },
   ],
-  pathPrefix: '/apfjunior.github.io',
+  pathPrefix: '/portfolio',
 };
