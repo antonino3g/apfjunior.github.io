@@ -20,7 +20,7 @@ export const aboutData = {
   img: 'profile.png',
   paragraphOne:
     'Construo aplicações com as tecnologias Node.js e React.js. Na parte desenvolvimento Mobile, trabalho com React Native e recentemente, estou estudando um pouco sobre Flutter. ',
-  paragraphTwo: 'Tenho experiência com C, Java, Javascript, Dart, Delphi, Python e SQL Ansi.',
+  paragraphTwo: 'Tenho experiência com C, Java, Javascript, Dart, Delphi e Phyton.',
   paragraphThree:
     'Gosto de resolver problemas e estudar novas tecnologias. Também gosto de escrever, sou usuário do Arch Linux e compartilho algum conhecimento em meu Blog pessoal.',
   blog: 'https://antoninopraxedes.wordpress.com/',
